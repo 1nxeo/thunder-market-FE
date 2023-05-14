@@ -20,8 +20,6 @@
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-round&logo=Postman&logoColor=white"/> 
 
- <img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-round&logo=slack&logoColor=white"/>
-
 ## 🔑 [프로젝트 구현 기능](http://clone-thunder-market.s3-website.ap-northeast-2.amazonaws.com/) 
 
 1. 메인 화면 (중고 상품 조회) 
